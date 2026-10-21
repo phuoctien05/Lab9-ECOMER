@@ -1,4 +1,3 @@
-
 {
   "products": [
     {
@@ -7,6 +6,27 @@
       "category": "Thời trang",
       "price": 30000,
       "image": "https://plus.unsplash.com/premium_photo-1678834778658-9862d9987dd3?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D"
+    },
+    {
+      "id": "ZttPWLFNmuSwZRftPfoZ",
+      "name": "pizza",
+      "category": "Đồ Ăn",
+      "price": 70000,
+      "image": "https://plus.unsplash.com/premium_photo-1673439304183-8840bd0dc1bf?q=80&w=774&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D"
+    },
+    {
+      "id": "qAl7T8SPDYAmCArSO0e4",
+      "name": "Nhẫn",
+      "category": "Trang Sức",
+      "price": 50000,
+      "image": ""
+    },
+    {
+      "id": "RAf72wvvI4gia13fl6bN",
+      "name": "Áo",
+      "category": "Thời Trang",
+      "price": 10000,
+      "image": ""
     }
   ]
 }
